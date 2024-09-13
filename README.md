@@ -37,7 +37,7 @@ This project includes a keylogger implemented in Python, which captures key pres
 3. **Install the required packages**:
 
    ```bash
-   pip install pynput requests aiohttp
+   pip install pynput requests aiohttp flask
    ```
 
 4. **Run the Server on the attacker machine**:
